@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 
+void showCoordinatesRasterLine(float u1, float v1, float u2, float v2);
+
 int main()
 {
     float u1, v1, u2, v2;
